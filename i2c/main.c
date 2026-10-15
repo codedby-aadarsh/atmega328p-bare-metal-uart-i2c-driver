@@ -1,6 +1,5 @@
 #include <avr/io.h>
 #include <avr/common.h>
-#include <avr/io.h>
 
 #define START 0x08
 #define MT_SLA_W_ACK 0x18
